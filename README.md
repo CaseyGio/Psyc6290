@@ -1,36 +1,30 @@
-# Psyc 6290: Research Statistics  
+# **Psyc 6290: Research Statistics**  
 
-Welcome to the GitHub repository for **Psyc 6290: Research Statistics**! This repository contains resources, datasets, activities, demonstrations, and assignments to support your learning in this course.  
+Welcome to professor Casey Giordano's GitHub repository for **Psyc 6290: Research Statistics**! This repository contains datasets, R code, demonstrations, activities, and assignments to support your learning in statistical methods using **R** within the **Google Colab environment**.  
 
-## 📂 Repository Contents  
+## 📂 **Repository Structure**  
 
-- **Datasets** 📊: Data files for class exercises, homework, and projects.
-- **Class Demonstrations** 🎓: Step-by-step guides and examples to illustrate key statistical methods. 
-- **Class Activities** 📝: Hands-on exercises designed to reinforce statistical concepts.   
-- **Assignments** 📑: Coursework to be completed and submitted as part of the class.  
+- **📁 Datasets/** – Contains `.csv` files used for demonstrations, activities, and assignments.  
+- **📁 WkX/** – Each week’s folder (e.g., `Wk2/` for Week 2) contains:  
+  - Demonstrations (`.ipynb` Jupyter notebooks)  
+  - Activities (`.ipynb` Jupyter notebooks)  
+  - Assignments (most weeks include at least one assignment, also in `.ipynb` format)  
 
-## 📌 How to Use This Repository  
+## 🛠 **Tools & Technologies**  
 
-1. Clone or download the repository to access materials:  
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Psyc6290-Research-Statistics.git
-   ```
-2. Navigate through the folders to find the relevant materials.  
-3. Follow instructions in each file to complete activities and assignments.  
-4. Submit assignments according to the course guidelines.  
+- **R programming language** (executed within Jupyter notebooks)  
+- **Google Colab** (to run `.ipynb` notebooks)  
 
-## 🛠 Software & Tools  
+## 🚀 **How to Use This Repository**  
 
-- **R / RStudio** (Recommended for statistical analysis)  
-- **SPSS** (For those using IBM SPSS Statistics)  
-- **Python (Optional)** (For students who prefer pandas, NumPy, or SciPy)  
+1. **Open a Jupyter Notebook in Google Colab:**  
+   - Click on a `.ipynb` file in GitHub and select **"Open in Colab"** (or manually upload it to your Google Drive).  
+2. **Run the Code Cells** to follow along with demonstrations and complete activities/assignments.  
+3. **Use the Provided Datasets** (`.csv` files) to analyze data and practice statistical methods.  
+4. **Complete Assignments** and submit them according to course instructions.  
 
-## 📬 Contact & Support  
+## 📬 **Contact & Support**  
 
-If you have any questions, feel free to reach out via the course communication channels or email.  
+For questions, reach out through the course communication channels.  
 
-Happy learning! 📚✨  
-
----
-
-Let me know if you'd like any modifications! 😊
+Happy coding! 🧠📊✨  
