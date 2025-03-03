@@ -18,13 +18,16 @@ Welcome to professor Casey Giordano's GitHub repository for **Psyc 6290: Researc
 ## 🚀 **How to Use This Repository**  
 
 1. **Open a Jupyter Notebook in Google Colab:**  
-   - Click on a `.ipynb` file in GitHub and select **"Open in Colab"** (or manually upload it to your Google Drive).  
+   - Open the Google Colab website (https://colab.research.google.com/).
+   - A dialogue box appears, select GitHub as the 4th option on the left-hand side.
+   - Type "CaseyGio" into the textbox, click somewhere else on that dialogue box for it to find my GitHub repository.
+   - Identify the Wk number and find the activity/demo/assignment.
 2. **Run the Code Cells** to follow along with demonstrations and complete activities/assignments.  
 3. **Use the Provided Datasets** (`.csv` files) to analyze data and practice statistical methods.  
-4. **Complete Assignments** and submit them according to course instructions.  
+4. **Complete Assignments** and submit them via Canvas activity/assignment portals according to course instructions.  
 
 ## 📬 **Contact & Support**  
 
-For questions, reach out through the course communication channels.  
+For questions, reach out through email (cgiordan@aum.edu), Canvas messages, or via Teams.   
 
 Happy coding! 🧠📊✨  
