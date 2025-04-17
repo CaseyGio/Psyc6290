@@ -1,0 +1,184 @@
+Country,Year,Life_Expectancy,Status,Mortality
+Afghanistan,2015,65,Developing,263
+Albania,2015,77.8,Developing,74
+Algeria,2015,75.6,Developing,19
+Angola,2015,52.4,Developing,335
+Antigua and Barbuda,2015,76.4,Developing,13
+Argentina,2015,76.3,Developing,116
+Armenia,2015,74.8,Developing,118
+Australia,2015,82.8,Developed,59
+Austria,2015,81.5,Developed,65
+Azerbaijan,2015,72.7,Developing,118
+Bahamas,2015,76.1,Developing,147
+Bahrain,2015,76.9,Developing,69
+Bangladesh,2015,71.8,Developing,129
+Barbados,2015,75.5,Developing,98
+Belarus,2015,72.3,Developing,196
+Belgium,2015,81.1,Developed,74
+Belize,2015,71,Developing,175
+Benin,2015,60,Developing,249
+Bhutan,2015,69.8,Developing,211
+Bolivia (Plurinational State of),2015,77,Developing,186
+Bosnia and Herzegovina,2015,77.4,Developing,88
+Botswana,2015,65.7,Developing,256
+Brazil,2015,75,Developing,142
+Brunei Darussalam,2015,77.7,Developing,78
+Bulgaria,2015,74.5,Developed,137
+Burkina Faso,2015,59.9,Developing,26
+Burundi,2015,59.6,Developing,288
+Côte d'Ivoire,2015,53.3,Developing,397
+Cabo Verde,2015,73.3,Developing,114
+Cambodia,2015,68.7,Developing,174
+Cameroon,2015,57.3,Developing,357
+Canada,2015,82.2,Developing,64
+Central African Republic,2015,52.5,Developing,397
+Chad,2015,53.1,Developing,356
+Chile,2015,85,Developing,82
+China,2015,76.1,Developing,85
+Colombia,2015,74.8,Developing,143
+Comoros,2015,63.5,Developing,227
+Congo,2015,64.7,Developing,267
+Costa Rica,2015,79.6,Developing,95
+Croatia,2015,78,Developed,95
+Cuba,2015,79.1,Developing,92
+Cyprus,2015,85,Developed,52
+Czechia,2015,78.8,Developed,86
+Democratic People's Republic of Korea,2015,76,Developing,139
+Democratic Republic of the Congo,2015,59.8,Developing,258
+Denmark,2015,86,Developed,71
+Djibouti,2015,63.5,Developing,241
+Dominican Republic,2015,73.9,Developing,152
+Ecuador,2015,76.2,Developing,118
+Egypt,2015,79,Developing,159
+El Salvador,2015,73.5,Developing,178
+Equatorial Guinea,2015,58.2,Developing,32
+Eritrea,2015,64.7,Developing,255
+Estonia,2015,77.6,Developing,119
+Ethiopia,2015,64.8,Developing,225
+Fiji,2015,69.9,Developing,188
+Finland,2015,81.1,Developing,76
+France,2015,82.4,Developing,78
+Gabon,2015,66,Developing,229
+Gambia,2015,61.1,Developing,262
+Georgia,2015,74.4,Developing,129
+Germany,2015,81,Developed,68
+Ghana,2015,62.4,Developing,249
+Greece,2015,81,Developing,72
+Grenada,2015,73.6,Developing,142
+Guatemala,2015,71.9,Developing,186
+Guinea,2015,59,Developing,284
+Guinea-Bissau,2015,58.9,Developing,275
+Guyana,2015,66.2,Developing,215
+Haiti,2015,63.5,Developing,24
+Honduras,2015,74.6,Developing,147
+Hungary,2015,75.8,Developed,134
+Iceland,2015,82.7,Developed,49
+India,2015,68.3,Developing,181
+Indonesia,2015,69.1,Developing,176
+Iran (Islamic Republic of),2015,75.5,Developing,83
+Iraq,2015,68.9,Developing,182
+Ireland,2015,81.4,Developed,64
+Israel,2015,82.5,Developing,58
+Italy,2015,82.7,Developed,56
+Jamaica,2015,76.2,Developing,125
+Japan,2015,83.7,Developed,55
+Jordan,2015,74.1,Developing,112
+Kazakhstan,2015,72,Developing,198
+Kenya,2015,63.4,Developing,249
+Kiribati,2015,66.3,Developing,198
+Kuwait,2015,74.7,Developing,81
+Kyrgyzstan,2015,71.1,Developing,166
+Lao People's Democratic Republic,2015,65.7,Developing,194
+Latvia,2015,74.6,Developed,153
+Lebanon,2015,74.9,Developing,98
+Lesotho,2015,53.7,Developing,484
+Liberia,2015,61.4,Developing,259
+Libya,2015,72.7,Developing,138
+Lithuania,2015,73.6,Developed,165
+Luxembourg,2015,82,Developed,63
+Madagascar,2015,65.5,Developing,22
+Malawi,2015,58.3,Developing,365
+Malaysia,2015,75,Developing,123
+Maldives,2015,78.5,Developing,61
+Mali,2015,58.2,Developing,266
+Malta,2015,81.7,Developed,54
+Mauritania,2015,63.1,Developing,25
+Mauritius,2015,74.6,Developing,146
+Mexico,2015,76.7,Developing,122
+Micronesia (Federated States of),2015,69.4,Developing,166
+Mongolia,2015,68.8,Developing,222
+Montenegro,2015,76.1,Developing,16
+Morocco,2015,74.3,Developing,95
+Mozambique,2015,57.6,Developing,355
+Myanmar,2015,66.6,Developing,199
+Namibia,2015,65.8,Developing,248
+Nepal,2015,69.2,Developing,165
+Netherlands,2015,81.9,Developed,57
+New Zealand,2015,81.6,Developed,66
+Nicaragua,2015,74.8,Developing,145
+Niger,2015,61.8,Developing,22
+Nigeria,2015,54.5,Developing,344
+Norway,2015,81.8,Developed,59
+Oman,2015,76.6,Developing,99
+Pakistan,2015,66.4,Developing,161
+Panama,2015,77.8,Developing,118
+Papua New Guinea,2015,62.9,Developing,275
+Paraguay,2015,74,Developing,146
+Peru,2015,75.5,Developing,123
+Philippines,2015,68.5,Developing,211
+Poland,2015,77.5,Developed,117
+Portugal,2015,81.1,Developed,76
+Qatar,2015,78.2,Developing,68
+Republic of Korea,2015,82.3,Developing,64
+Republic of Moldova,2015,72.1,Developing,157
+Romania,2015,75,Developed,133
+Russian Federation,2015,75,Developing,222
+Rwanda,2015,66.1,Developing,227
+Saint Lucia,2015,75.2,Developing,138
+Saint Vincent and the Grenadines,2015,73.2,Developing,156
+Samoa,2015,74,Developing,125
+Sao Tome and Principe,2015,67.5,Developing,19
+Saudi Arabia,2015,74.5,Developing,88
+Senegal,2015,66.7,Developing,188
+Serbia,2015,75.6,Developing,121
+Seychelles,2015,73.2,Developing,168
+Sierra Leone,2015,51,Developing,413
+Singapore,2015,83.1,Developed,55
+Slovakia,2015,76.7,Developed,19
+Slovenia,2015,88,Developed,74
+Solomon Islands,2015,69.2,Developing,177
+Somalia,2015,55,Developing,312
+South Africa,2015,62.9,Developing,328
+South Sudan,2015,57.3,Developing,332
+Spain,2015,82.8,Developed,56
+Sri Lanka,2015,74.9,Developing,138
+Sudan,2015,64.1,Developing,225
+Suriname,2015,71.6,Developing,176
+Swaziland,2015,58.9,Developing,373
+Sweden,2015,82.4,Developed,53
+Switzerland,2015,83.4,Developed,49
+Syrian Arab Republic,2015,64.5,Developing,293
+Tajikistan,2015,69.7,Developing,161
+Thailand,2015,74.9,Developing,148
+The former Yugoslav republic of Macedonia,2015,75.7,Developing,12
+Timor-Leste,2015,68.3,Developing,152
+Togo,2015,59.9,Developing,287
+Tonga,2015,73.5,Developing,133
+Trinidad and Tobago,2015,71.2,Developing,17
+Tunisia,2015,75.3,Developing,1
+Turkey,2015,75.8,Developing,16
+Turkmenistan,2015,66.3,Developing,215
+Uganda,2015,62.3,Developing,291
+Ukraine,2015,71.3,Developing,195
+United Arab Emirates,2015,77.1,Developing,75
+United Kingdom of Great Britain and Northern Ireland,2015,81.2,Developed,69
+United Republic of Tanzania,2015,61.8,Developing,279
+United States of America,2015,79.3,Developed,13
+Uruguay,2015,77,Developing,116
+Uzbekistan,2015,69.4,Developing,184
+Vanuatu,2015,72,Developing,13
+Venezuela (Bolivarian Republic of),2015,74.1,Developing,157
+Viet Nam,2015,76,Developing,127
+Yemen,2015,65.7,Developing,224
+Zambia,2015,61.8,Developing,33
+Zimbabwe,2015,67,Developing,336
